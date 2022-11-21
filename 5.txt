@@ -1,0 +1,16 @@
+Crawling a website is a bot in which it contains information
+about that website like data,images etc…It automatically downloads the
+requested information and it will be available for user needs.
+When it comes to crawling we can use some online tools for crawling 
+a website or we can write a code for that to crawl the website.
+Based upon my knowledge  if we want to crawl the data first we want to
+ send http request to the web page then it responds weather it can send 
+data or not then if yes we can move further  and try to access the data in
+ that website to download the data we can use code to download that data .
+if you are familiar with python or java  language it contain so many libraries
+ and by using that we can collect the data from the website
+Send an HTTP request to the URL of the webpage. It responds to your request by
+ returning the content of web pages.
+Parse the webpage. A parser will create a tree structure of the HTML as the webpages are 
+intertwined and nested together. A tree structure will help the bot follow the paths that
+ we created and navigate through to get the information.
